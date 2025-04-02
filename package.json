@@ -1,0 +1,15 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "CS362-Assignment 1. Create a local Git Repo and make some commits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "CS_362_SoftEngII"
+  },
+  "author": "Bon Kees",
+  "license": "ISC"
+}
